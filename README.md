@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laracalc
 - 👀 I’m interested in Real Estate Business.
-- 🌱 I’m currently working on an algorithm that helps users navigate through [Real Estate Licensing](https://staterequirement.com/real-estate/)
+- 🌱 I’m currently working on an app that helps users study for their [Real Estate Licensing Exam](https://staterequirement.com/real-estate/)
 
 <!---
 laracalc/laracalc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
